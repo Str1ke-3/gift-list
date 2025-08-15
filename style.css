@@ -1,0 +1,18 @@
+body {
+    font-size: 20px;
+}
+
+body header, body main {
+    width: 70%;
+    margin: auto;
+}
+
+section li:first-child {
+    margin-top: 2px;
+}
+
+summary {
+    background-color: #ccc;
+    padding: 10px;
+    border-radius: 10px;
+}
